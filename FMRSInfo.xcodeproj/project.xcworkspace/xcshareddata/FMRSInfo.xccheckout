@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>761D0DE6-ADE0-4DAF-9E2B-CDD9F04A6460</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FMRSInfo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9c7e6876-ee9b-4144-ba80-98d3b089198b</key>
+		<string>http://kgomgp02:90/svn/FMRSInfo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FMRSInfo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9c7e6876-ee9b-4144-ba80-98d3b089198b</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9c7e6876-ee9b-4144-ba80-98d3b089198b</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9c7e6876-ee9b-4144-ba80-98d3b089198b</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FMRSInfo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
